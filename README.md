@@ -26,9 +26,8 @@ I'm an aspiring DevOps and backend engineer with a solid foundation in cloud tec
 
 Here are some of the things I've been working on:
 
-- 🧠 **AI Career Guidance Platform** – Leveraging open-source LLMs to help youth make informed career decisions. *(ALX Final Project)*
-- 📄 **Cloud Resume Challenge API** – Serverless API using AWS Lambda + DynamoDB + CI/CD with GitHub Actions.
-- 💊 **Online Pharmacy System** – Full-stack Django app with CRUD, cart, and WhatsApp integration.
+- 📄 [**Cloud Resume Challenge API**](https://github.com/Light1596/cloud-api-resume) – Serverless API using AWS Lambda + DynamoDB + CI/CD with GitHub Actions.
+- 💊 [**Online Pharmacy System**](https://github.com/Light1596/pharmacy_project) – Full-stack Django app with CRUD, cart, and WhatsApp integration.
 - 🔐 **Password Manager App** – Tkinter GUI storing data locally and planning cloud integration.
 
 Explore my pinned repositories for code and documentation.
