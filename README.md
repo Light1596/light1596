@@ -46,9 +46,8 @@ Explore my pinned repositories for code and documentation.
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧠 [My Tech Blog](https://yourblog.com) *(if available)*  
-- 📬 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/light-situma-35b522166)    
+- 📬 Email: lightsituma@gmail.com
 
 ---
 
